@@ -1,5 +1,3 @@
-## Introduction to Regression
-
 ### Problem Statement
 Mobile carrier Megaline has found out that many of their subscribers use legacy plans.
 They want to develop a model that would analyze subscribers' behavior and recommend

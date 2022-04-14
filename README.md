@@ -4,10 +4,9 @@ They want to develop a model that would analyze subscribers' behavior and recomm
 one of Megaline's newer plans: Smart or Ultra.
 
 You have access to behavior data about subscribers who have already switched to the
-new plans (from the project for the Statistical Data Analysis course). For this
-classification task, you need to develop a model that will pick the right plan.
+new plans. For this classification task, you need to develop a model that will pick the right plan.
 
-Develop a model with the highest possible accuracy. In this project, the threshold for
+Develop a model with the highest possible accuracy. The threshold for
 accuracy is 0.75. 
 
 ### Dataset
